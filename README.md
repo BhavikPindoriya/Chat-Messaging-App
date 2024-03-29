@@ -1,9 +1,5 @@
 # Chat/Messaging App Light and Dark Theme - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
-
-## [Complete Source Code (Patreon only)](https://bit.ly/3n5mdwS)
-
 **Packages we are using:**
 
 - goole_fonts: [link](https://pub.dev/packages/google_fonts)
@@ -30,10 +26,17 @@ Today we gonna build messing/chat app #ui using #flutter that runs both Android 
 ► Profile Screen
 ► Edit Profile
 
-### Chat/Messaging App Light and Dark Theme Final UI
+### Chat/Messaging App Theme Final UI
 
-![Preview](/gif.gif)
-![Preview](/ui_kit.gif)
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/BhavikPindoriya/Chat-Messaging-App/assets/154498968/c3061b9e-e7d5-4e72-90f2-2dcbe8fd38d0" alt="Screenshot 1" width="200">
+    <img src="https://github.com/BhavikPindoriya/Chat-Messaging-App/assets/154498968/ad8ece8b-5c0e-41e6-b09d-6f2bf2bd4fd6" alt="Screenshot 2" width="200">
+    <img src="https://github.com/BhavikPindoriya/Chat-Messaging-App/assets/154498968/00b8444f-b99d-4521-ac60-735e0c3a503a" alt="Screenshot 3" width="200">
+    <img src="https://github.com/BhavikPindoriya/Chat-Messaging-App/assets/154498968/6537e7df-615c-4bd2-a95a-beb7ad8483c0" alt="Screenshot 4" width="200">
+</div>
 
-![App UI](/ui.png)
-![App UI](/chat_kit.png)
+
+
+
+
+
